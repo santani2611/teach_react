@@ -1,0 +1,13 @@
+.header{
+  background-color: black;
+  color:white;
+  font-size: 5rem;
+}
+
+
+.card{
+  background-color:pink;
+  width:fit-content;
+  padding:2rem;
+  margin-bottom: 2rem;
+}
